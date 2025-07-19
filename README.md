@@ -49,7 +49,7 @@ Welcome to my GitHub! I'm a **Data Analyst and BI Engineer** with 3+ years of ex
 - 👧 [**Child Welfare Data Dashboards**](https://public.tableau.com/app/profile/poorva.joshi/viz/MapVisualizationsshowingvariousChildAbusestoriesintheyears20192020and2021/Story1):  
   Built various dashboards on child abuse trends using public data from UNICEF, CPS & NCANDS
 
-- 🕵️ [**NYC Crime Dynamics**](https://public.tableau.com/app/profile/poorva.joshi/viz/NYCCrimesin2023/NYCCrimeStory)
+- 🕵️ [**NYC Crime Dynamics**](https://public.tableau.com/app/profile/poorva.joshi/viz/NYCCrimesin2023/NYCCrimeStory):  
   Built interactive Tableau and Qlik dashboards for NYC crime data, automating visual insights to support faster, data-driven decisions
 
 ---
