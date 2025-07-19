@@ -56,12 +56,12 @@ Welcome to my GitHub! I'm a **Data Analyst and BI Engineer** with 3+ years of ex
 
 ## 🛠️ Technical Skills
 
-**Programming Languages:** Python, SQL, R, Java, C#
-**BI & Data Visualization:** Tableau, Power BI (DAX), LookerStudio, Matplotlib, Seaborn
-**ML & AI:** Scikit-learn, NumPy, Unsupervised and Supervised Learning, Predictive Modeling
-**Data Engineering:** ETL Pipelines, PySpark, Hadoop, Snowflake, SQL Server, PostgreSQL, JSON
-**Statistical Analysis & Testing:** A/B Testing, Hypothesis Testing, Regression Analysis, Time-Series Analysis
-**Collaboration Tools:** Git, JIRA, Confluence, Snowflake, Agile/Scrum, Microsoft Excel
+- **Programming Languages:** Python, SQL, R, Java, C#
+- **BI & Data Visualization:** Tableau, Power BI (DAX), LookerStudio, Matplotlib, Seaborn
+- **ML & AI:** Scikit-learn, NumPy, Unsupervised and Supervised Learning, Predictive Modeling
+- **Data Engineering:** ETL Pipelines, PySpark, Hadoop, Snowflake, SQL Server, PostgreSQL, JSON
+- **Statistical Analysis & Testing:** A/B Testing, Hypothesis Testing, Regression Analysis, Time-Series Analysis
+- **Collaboration Tools:** Git, JIRA, Confluence, Snowflake, Agile/Scrum, Microsoft Excel
 
 ---
 
