@@ -51,6 +51,17 @@ Welcome to my GitHub! I'm a **Data Analyst and BI Engineer** with 3+ years of ex
 
 - 🕵️ [**NYC Crime Dynamics**](https://public.tableau.com/app/profile/poorva.joshi/viz/NYCCrimesin2023/NYCCrimeStory):  
   Built interactive Tableau and Qlik dashboards for NYC crime data, automating visual insights to support faster, data-driven decisions
+  
+---
+
+## 🛠️ Technical Skills
+
+**Programming Languages:** Python, SQL, R, Java, C#
+**BI & Data Visualization:** Tableau, Power BI (DAX), LookerStudio, Matplotlib, Seaborn
+**ML & AI:** Scikit-learn, NumPy, Unsupervised and Supervised Learning, Predictive Modeling
+**Data Engineering:** ETL Pipelines, PySpark, Hadoop, Snowflake, SQL Server, PostgreSQL, JSON
+**Statistical Analysis & Testing:** A/B Testing, Hypothesis Testing, Regression Analysis, Time-Series Analysis
+**Collaboration Tools:** Git, JIRA, Confluence, Snowflake, Agile/Scrum, Microsoft Excel
 
 ---
 
