@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a **Data Analyst and BI Engineer** with 3+ years of ex
 ---
 
 ## 🚀 About Me
-- 🎓 **Currently Pursuing:** MS in Analytics (AI Specialization) @ Northeastern University (GPA: 3.9/4.0)
+- 🎓 **Recently Graduated:** MS in Data Analytics with a concentration in Artificial Intelligence @ Northeastern University (GPA: 3.9/4.0)
 - 💼 **Recent Role:** Data Analytics Intern @ AmalgamRx
 - 📍 **Location:** Boston, USA
 - 🌱 **Interests:** Real-time analytics, ethical AI, healthcare data
@@ -17,21 +17,18 @@ Welcome to my GitHub! I'm a **Data Analyst and BI Engineer** with 3+ years of ex
 ## 🏢 Experience Highlights
 
 **AmalgamRx (Data Analytics Intern)**  
-*Sep 2024 – Apr 2025*  
 - Analyzed 15M healthcare records to identify inefficiencies in cancer screening workflows  
 - Created Tableau and LookerStudio dashboards that increased user engagement by 25%  
 - Performed A/B testing on 50k records to improve provider acceptance rates  
 
-**Infosys Ltd (Data Analyst, Certified SDET)**  
-*Jun 2021 – Jul 2023*  
+**Infosys Ltd (Data Analyst, Certified SDET)**   
 - Built ETL pipelines that saved $100k in ops costs  
 - Migrated 50+ DB objects with 95% validation accuracy  
 - Developed Power BI dashboards that improved user session duration by 12%  
 
 **IMA Management & Technology (Business Analyst)**  
-*May 2020 – Apr 2021*  
-- Used Google Analytics to reduce bounce rate and improve conversion by 18%  
-- Migrated metadata-heavy reports to SharePoint, cutting retrieval time by 85%
+- Developed a corporate website and used Google Analytics to reduce bounce rate and improve conversion by 18%  
+- Migrated metadata-heavy client reports to SharePoint, cutting retrieval time by 85%
 
 ---
 
@@ -50,9 +47,17 @@ Welcome to my GitHub! I'm a **Data Analyst and BI Engineer** with 3+ years of ex
   Used PySpark & ML models to predict urban tree health; visualized in Tableau and Power BI
 
 - 👧 [**Child Welfare Data Dashboards**](https://public.tableau.com/app/profile/poorva.joshi/viz/MapVisualizationsshowingvariousChildAbusestoriesintheyears20192020and2021/Story1):  
-  Built 15+ dashboards on child abuse trends using public data from UNICEF, CPS & NCANDS
+  Built various dashboards on child abuse trends using public data from UNICEF, CPS & NCANDS
 
-- 🕵️ [**NYC Crime Dynamics**](https://publi)
+- 🕵️ [**NYC Crime Dynamics**](https://public.tableau.com/app/profile/poorva.joshi/viz/NYCCrimesin2023/NYCCrimeStory)
+  Built interactive Tableau and Qlik dashboards for NYC crime data, automating visual insights to support faster, data-driven decisions
+
+---
+
+## 🔗 Let's Connect
+- **Portfolio:** [GitHub Portfolio](https://poorva-pjoshi.github.io/)
+- **LinkedIn:** [linkedin.com/in/poorva-joshi-pj](https://www.linkedin.com/in/poorva-joshi-pj/)
+- **Email:** joshi.po@northeastern.edu
 
 <!--
 **poorva-pjoshi/poorva-pjoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
