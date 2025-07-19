@@ -16,11 +16,14 @@ Welcome to my GitHub! I'm a **Data Analyst and BI Engineer** with 3+ years of ex
 
 ## 🏢 Experience Highlights
 
-**BI & Data Analytics Intern @AmalgamRx:** Drove insights from 15M+ healthcare records; built dashboards (Tableau, LookerStudio) and ran A/B tests to improve screening workflows and provider adoption. 
+**BI & Data Analytics Intern @AmalgamRx, USA:**
+Drove insights from 15M+ healthcare records; built dashboards (Tableau, LookerStudio) and ran A/B tests to improve screening workflows and provider adoption. 
 
-**Infosys Ltd (Data Analyst, Certified SDET):** Developed cost-saving ETL pipelines and Power BI dashboards; led database migrations and automation initiatives for enterprise reporting.  
+**Data Analyst & Certified SDET @Infosys Ltd, INDIA:**
+Developed cost-saving ETL pipelines and Power BI dashboards; led database migrations and automation initiatives for enterprise reporting.  
 
-**IMA Management & Technology (Business Analyst):** Developed corporate website, improved user engagement and reporting efficiency through Google analytics and conducted SharePoint-based report migration.
+**Business Analyst @IMA Management & Technology, AUSTRALIA:**
+Developed corporate website, improved user engagement and reporting efficiency through Google analytics and conducted SharePoint-based report migration.
 
 ---
 
