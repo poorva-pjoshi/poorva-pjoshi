@@ -16,19 +16,11 @@ Welcome to my GitHub! I'm a **Data Analyst and BI Engineer** with 3+ years of ex
 
 ## 🏢 Experience Highlights
 
-**AmalgamRx (Data Analytics Intern)**  
-- Analyzed 15M healthcare records to identify inefficiencies in cancer screening workflows  
-- Created Tableau and LookerStudio dashboards that increased user engagement by 25%  
-- Performed A/B testing on 50k records to improve provider acceptance rates  
+**BI & Data Analytics Intern @AmalgamRx:** Drove insights from 15M+ healthcare records; built dashboards (Tableau, LookerStudio) and ran A/B tests to improve screening workflows and provider adoption. 
 
-**Infosys Ltd (Data Analyst, Certified SDET)**   
-- Built ETL pipelines that saved $100k in ops costs  
-- Migrated 50+ DB objects with 95% validation accuracy  
-- Developed Power BI dashboards that improved user session duration by 12%  
+**Infosys Ltd (Data Analyst, Certified SDET):** Developed cost-saving ETL pipelines and Power BI dashboards; led database migrations and automation initiatives for enterprise reporting.  
 
-**IMA Management & Technology (Business Analyst)**  
-- Developed a corporate website and used Google Analytics to reduce bounce rate and improve conversion by 18%  
-- Migrated metadata-heavy client reports to SharePoint, cutting retrieval time by 85%
+**IMA Management & Technology (Business Analyst):** Developed corporate website, improved user engagement and reporting efficiency through Google analytics and conducted SharePoint-based report migration.
 
 ---
 
@@ -40,17 +32,13 @@ Welcome to my GitHub! I'm a **Data Analyst and BI Engineer** with 3+ years of ex
 
 ## 💡 Projects
 
-- 🧠 [**Traumatic Brain Injury Phenotyping**](https://github.com/poorva-pjoshi/Traumatic-Brain-Injury-Digital-Phenotyping-Platform):  
-  Used XGBoost, K-Means & DBSCAN to cluster TBI cases with 87% accuracy and built React-based BI dashboard
+- 🧠 [**Traumatic Brain Injury Phenotyping**](https://github.com/poorva-pjoshi/Traumatic-Brain-Injury-Digital-Phenotyping-Platform): Applied ML (XGBoost, clustering) for patient stratification and built a React dashboard to visualize results.
 
-- 🌳 [**NYC Tree Health Forecasting**](https://github.com/poorva-pjoshi/nyc_tree_health_forecasting_bigdata):  
-  Used PySpark & ML models to predict urban tree health; visualized in Tableau and Power BI
+- 🌳 [**NYC Tree Health Forecasting**](https://github.com/poorva-pjoshi/nyc_tree_health_forecasting_bigdata): Used PySpark & ML models to predict urban tree health; visualized in Tableau and Power BI.
 
-- 👧 [**Child Welfare Data Dashboards**](https://public.tableau.com/app/profile/poorva.joshi/viz/MapVisualizationsshowingvariousChildAbusestoriesintheyears20192020and2021/Story1):  
-  Built various dashboards on child abuse trends using public data from UNICEF, CPS & NCANDS
+- 👧 [**Child Welfare Data Dashboards**](https://public.tableau.com/app/profile/poorva.joshi/viz/MapVisualizationsshowingvariousChildAbusestoriesintheyears20192020and2021/Story1): Built various dashboards analysing child abuse trends using public data from UNICEF, CPS & NCANDS
 
-- 🕵️ [**NYC Crime Dynamics**](https://public.tableau.com/app/profile/poorva.joshi/viz/NYCCrimesin2023/NYCCrimeStory):  
-  Built interactive Tableau and Qlik dashboards for NYC crime data, automating visual insights to support faster, data-driven decisions
+- 🕵️ [**NYC Crime Dynamics**](https://public.tableau.com/app/profile/poorva.joshi/viz/NYCCrimesin2023/NYCCrimeStory): Built automated Tableau dashboard to visualize crime patterns and support data-driven policing.
   
 ---
 
