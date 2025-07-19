@@ -35,11 +35,11 @@ Developed corporate website, improved user engagement and reporting efficiency t
 
 ## 💡 Projects
 
-- 🧠 [**Traumatic Brain Injury Phenotyping**](https://github.com/poorva-pjoshi/Traumatic-Brain-Injury-Digital-Phenotyping-Platform): Applied ML (XGBoost, clustering) for patient stratification and built a React dashboard to visualize results.
+- 🧠 [**Traumatic Brain Injury Phenotyping**](https://github.com/poorva-pjoshi/Traumatic-Brain-Injury-Digital-Phenotyping-Platform): Applied ML techniques for patient stratification and built PowerBI dashboards to visualize results.
 
 - 🌳 [**NYC Tree Health Forecasting**](https://github.com/poorva-pjoshi/nyc_tree_health_forecasting_bigdata): Used PySpark & ML models to predict urban tree health; visualized in Tableau and Power BI.
 
-- 👧 [**Child Welfare Data Dashboards**](https://public.tableau.com/app/profile/poorva.joshi/viz/MapVisualizationsshowingvariousChildAbusestoriesintheyears20192020and2021/Story1): Built various dashboards analysing child abuse trends using public data from UNICEF, CPS & NCANDS
+- 👧 [**Child Welfare Data Dashboards**](https://public.tableau.com/app/profile/poorva.joshi/viz/MapVisualizationsshowingvariousChildAbusestoriesintheyears20192020and2021/Story1): Built various dashboards analysing child abuse trends using public data from UNICEF, CPS & NCANDS.
 
 - 🕵️ [**NYC Crime Dynamics**](https://public.tableau.com/app/profile/poorva.joshi/viz/NYCCrimesin2023/NYCCrimeStory): Built automated Tableau dashboard to visualize crime patterns and support data-driven policing.
   
