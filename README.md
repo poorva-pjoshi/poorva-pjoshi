@@ -27,9 +27,11 @@ Developed corporate website, improved user engagement and reporting efficiency t
 
 ---
 
-## 🏆 Awards & Achievements
+## 🏆 Achievements & Certifications
+- [**Apache Airflow 3 Fundamentals**, Astronormer Certification](https://www.credly.com/badges/3e907c1d-9fdb-4380-9661-77f6a78153de/public_url)
+- [**Databricks Fundamentals**](https://credentials.databricks.com/9dd72ab5-7000-4839-a32a-14dfb22217e1#acc.ZPILSUe7)
 - 🥉 **Bronze Medal** in Kaggle Datathon – improved model accuracy through hyperparameter tuning  
-- 🏅 **Rise Insta Award** at Infosys for exceeding performance as youngest team contributor  
+- 🎖️ **Rise Insta Award** at Infosys for exceeding performance as youngest team contributor  
 
 ---
 
