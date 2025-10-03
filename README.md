@@ -8,9 +8,9 @@ Welcome to my GitHub! I'm a **Data Analyst and BI Engineer** with 3+ years of ex
 
 ## 🚀 About Me
 - 🎓 **Recently Graduated:** MS in Data Analytics with a concentration in Artificial Intelligence @ Northeastern University (GPA: 3.9/4.0)
-- 💼 **Recent Role:** Data Analytics Intern @ AmalgamRx
-- 📍 **Location:** Boston, USA
-- 🌱 **Interests:** Real-time analytics, ethical AI, healthcare data
+- 💼 **Recent Role:** BI & Data Analyst @ AmalgamRx
+- 📍 **Location:** Boston, USA (Open to Relocate)
+- 🌱 **Interests:** Real-time analytics, ethical AI, healthcare data, dashboard development
 
 ---
 
