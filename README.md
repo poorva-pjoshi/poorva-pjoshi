@@ -2,7 +2,7 @@
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=poorva-pjoshi&style=for-the-badge)
 
-Welcome to my GitHub! I'm a **Data Analyst and BI Engineer** with 3+ years of experience in transforming data into meaningful insights across healthcare, insurance, and tech domains. My journey is driven by curiosity, impact, and continuous learning.
+I'm a **Data Analyst and BI Engineer** with ~4 years of experience in transforming data into meaningful insights across healthcare, insurance, and tech domains. My journey is driven by curiosity, impact, and continuous learning.
 
 ---
 
