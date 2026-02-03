@@ -7,8 +7,8 @@ I'm a **Data Analyst and BI Engineer** with ~4 years of experience in transformi
 ---
 
 ## 🚀 About Me
-- 🎓 **Recently Graduated:** MS in Data Analytics with a concentration in Artificial Intelligence @ Northeastern University (GPA: 3.9/4.0)
-- 💼 **Recent Role:** BI & Data Analyst @ AmalgamRx
+- 🎓 **Recently Graduated:** MS in Data Analytics with a concentration in AI @ Northeastern University (GPA: 3.9/4.0)
+- 💼 **Recent Role:** Product Analyst @ IpserLab
 - 📍 **Location:** Boston, USA (Open to Relocate)
 - 🌱 **Interests:** Real-time analytics, ethical AI, healthcare data, dashboard development
 
@@ -16,18 +16,23 @@ I'm a **Data Analyst and BI Engineer** with ~4 years of experience in transformi
 
 ## 🏢 Experience Highlights
 
+**Product Analyst @IpserLab, USA:**
+Analyzed user behavior and experiment data for an AI trip-planner; partnered with product and engineering teams to identify bias, validate features, and improve model fairness and evaluation reliability.
+
 **BI & Data Analytics Intern @AmalgamRx, USA:**
 Drove insights from 15M+ healthcare records; built dashboards (Tableau, LookerStudio) and ran A/B tests to improve screening workflows and provider adoption. 
 
-**Data Analyst & Certified SDET @Infosys Ltd, INDIA:**
+**Data Analyst & DevOps Professional @Infosys Ltd, INDIA:**
 Developed cost-saving ETL pipelines and Power BI dashboards; led database migrations and automation initiatives for enterprise reporting.  
 
-**Business Analyst @IMA Management & Technology, AUSTRALIA:**
+**Analytics Consultant @IMA Management & Technology, AUSTRALIA:**
 Developed corporate website, improved user engagement and reporting efficiency through Google analytics and conducted SharePoint-based report migration.
 
 ---
 
 ## 🏆 Achievements & Certifications
+- 📜 [McKinsey Forward Program, McKinsey & Company](https://www.credly.com/badges/381dee53-4502-413d-8176-1f22e0f3b1c3/public_url)
+- 📜 [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=331F8FD3A1B11D927AB3A5449424EEB8643102F819613F78446BD5E5E684360E)
 - 📜 [Apache Airflow 3 Fundamentals, Astronormer Certification](https://www.credly.com/badges/3e907c1d-9fdb-4380-9661-77f6a78153de/public_url)
 - 📜 [Databricks Fundamentals](https://credentials.databricks.com/9dd72ab5-7000-4839-a32a-14dfb22217e1#acc.ZPILSUe7)
 - 🥉 **Bronze Medal** in Kaggle Datathon – improved model accuracy through hyperparameter tuning  
